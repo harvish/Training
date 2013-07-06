@@ -25,7 +25,7 @@ public class JdbcSample {
 		String uname,pass,email;
 		uname=pass=email=null;
 		String sql="select * from login";
-		char t;
+		//char t;
 		int opt=0;
 		l1:
 		do{
